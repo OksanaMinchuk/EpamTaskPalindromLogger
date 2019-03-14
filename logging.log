@@ -1,0 +1,25 @@
+2019-03-14 23:20:39 INFO  root:22 - stack.push A
+2019-03-14 23:20:39 INFO  root:22 - stack.push B
+2019-03-14 23:20:39 INFO  root:22 - stack.push C
+2019-03-14 23:20:39 INFO  root:22 - stack.push D
+2019-03-14 23:20:39 INFO  root:32 - stack.pop D - char value C
+2019-03-14 23:20:39 INFO  root:16 - Result is: false
+2019-03-14 23:21:28 INFO  root:22 - stack.push 1
+2019-03-14 23:21:28 INFO  root:22 - stack.push 2
+2019-03-14 23:21:28 INFO  root:22 - stack.push 3
+2019-03-14 23:21:28 INFO  root:27 - increase count by 1
+2019-03-14 23:21:28 INFO  root:32 - stack.pop 3 - char value 3
+2019-03-14 23:21:28 INFO  root:32 - stack.pop 2 - char value 2
+2019-03-14 23:21:28 INFO  root:32 - stack.pop 1 - char value 1
+2019-03-14 23:21:28 INFO  root:37 - stack is empty
+2019-03-14 23:21:28 INFO  root:16 - Result is: true
+2019-03-14 23:21:50 INFO  root:22 - stack.push 1
+2019-03-14 23:21:50 INFO  root:22 - stack.push 2
+2019-03-14 23:21:50 INFO  root:22 - stack.push 3
+2019-03-14 23:21:50 INFO  root:22 - stack.push 4
+2019-03-14 23:21:50 INFO  root:32 - stack.pop 4 - char value 4
+2019-03-14 23:21:50 INFO  root:32 - stack.pop 3 - char value 3
+2019-03-14 23:21:50 INFO  root:32 - stack.pop 2 - char value 2
+2019-03-14 23:21:50 INFO  root:32 - stack.pop 1 - char value 1
+2019-03-14 23:21:50 INFO  root:37 - stack is empty
+2019-03-14 23:21:50 INFO  root:16 - Result is: true
